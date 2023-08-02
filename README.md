@@ -1,2 +1,1 @@
-# Werwolf-WA
-Die Werwölfe von Düsterwald
+# Werwolf - "Die Werwölfe von Düsterwald"
